@@ -1,4 +1,4 @@
-<h1 align="center">Projeto treinador de ouvido</h1>
+<h1 align="center">Projeto CateTodo</h1>
 
 <div align="center">
   <img
@@ -8,7 +8,7 @@
   />
 </div>
 
-<p align="center">Projeto fron-end para treino do ouvido musical</p>
+<p align="center">Interface de um todolist</p>
 
 * [Sobre](#Sobre)
 * [Ferramentas](#Ferramentas)
