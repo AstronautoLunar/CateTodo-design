@@ -41,7 +41,7 @@ também deixei as imagens de todas as telas na parte de images
 - black-4: #919191
 - black-5: #ABABAB
 
-### Cores de Acessibilidade
+### Cores Extras
 Usei apenas o vermelho, mas caso queira adicionar mais coisas, fica aqui minha paleta de cores de acessibilidade
 
 - Cor de Informação: #49C5FA
@@ -53,44 +53,56 @@ Usei apenas o vermelho, mas caso queira adicionar mais coisas, fica aqui minha p
 
 <div align="center">
   <img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Splash%20Screen.png"
-  alt="image presentation"
-  align="center"
-/>
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Splash%20Screen.png"
+    alt="image presentation"
+    align="center"
+  />
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Login.png"
-  alt="image presentation"
-  align="center"
-/>
+  <hr/>
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Register.png"
-  alt="image presentation"
-  align="center"
-/>
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Login.png"
+    alt="image presentation"
+    align="center"
+  />
+  
+  <hr/>
+  
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Register.png"
+    alt="image presentation"
+    align="center"
+  />
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Task.png"
-  alt="image presentation"
-  align="center"
-/>
+  <hr/>
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Category.png"
-  alt="image presentation"
-  align="center"
-/>
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Task.png"
+    alt="image presentation"
+    align="center"
+  />
+  
+  <hr/>
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Remove%20Category.png"
-  alt="image presentation"
-  align="center"
-/>
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Category.png"
+    alt="image presentation"
+    align="center"
+  />
+  
+  <hr/>
 
-<img
-  src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/View%20Category.png"
-  alt="image presentation"
-  align="center"
-/>
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/Remove%20Category.png"
+    alt="image presentation"
+    align="center"
+  />
+  
+  <hr/>
+
+  <img
+    src="https://github.com/Pyedrown/CateTodo-design/blob/master/images/View%20Category.png"
+    alt="image presentation"
+    align="center"
+  />
 </div>
