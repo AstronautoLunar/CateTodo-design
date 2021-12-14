@@ -42,7 +42,7 @@ também deixei as imagens de todas as telas na parte de images
 - black-5: #ABABAB
 
 ### Cores Extras
-Usei apenas o vermelho, mas caso queira adicionar mais coisas, fica aqui minha paleta de cores de acessibilidade
+Usei apenas o vermelho, mas caso queira adicionar mais coisas, fica aqui minha paleta de cores Extras
 
 - Cor de Informação: #49C5FA
 - Cor de Sucesso: #66FF4E
